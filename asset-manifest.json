@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mgazwa-base/static/css/main.ab3319a3.css",
-    "main.js": "/mgazwa-base/static/js/main.0f592b9a.js",
+    "main.css": "/mgazwa-base/static/css/main.9a9706f0.css",
+    "main.js": "/mgazwa-base/static/js/main.41c3a1b2.js",
     "static/media/profile.png": "/mgazwa-base/static/media/profile.12bb29ec4147d7056fb3.png",
     "static/media/about-me.jpg": "/mgazwa-base/static/media/about-me.366cfe2491d8c0eaba03.jpg",
     "static/media/portfolio5.png": "/mgazwa-base/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/mgazwa-base/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/mgazwa-base/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/mgazwa-base/index.html",
-    "main.ab3319a3.css.map": "/mgazwa-base/static/css/main.ab3319a3.css.map",
-    "main.0f592b9a.js.map": "/mgazwa-base/static/js/main.0f592b9a.js.map"
+    "main.9a9706f0.css.map": "/mgazwa-base/static/css/main.9a9706f0.css.map",
+    "main.41c3a1b2.js.map": "/mgazwa-base/static/js/main.41c3a1b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab3319a3.css",
-    "static/js/main.0f592b9a.js"
+    "static/css/main.9a9706f0.css",
+    "static/js/main.41c3a1b2.js"
   ]
 }
