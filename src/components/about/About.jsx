@@ -1,9 +1,6 @@
 import React from "react";
 import "./about.css";
 import ME from "../../assets/about-me.jpg"
-import {BsAward} from "react-icons/bs"
-import {FiUsers} from "react-icons/fi"
-import {VscFolderLibrary} from "react-icons/vsc"
 
 
 const About = () => {
@@ -19,29 +16,13 @@ const About = () => {
                     </div>
                 </div>
                 <div className="about_content">
-                    <div className="about_cards">
-                        <article className="about_card">
-                            <BsAward className="about_icon"/>
-                            <h5>Experience</h5>
-                            <small>3+ Years Working</small>
-                        </article>
-                        <article className="about_card">
-                            <FiUsers className="about_icon"/>
-                            <h5>Clients</h5>
-                            <small>200+ Worldwide</small>
-                        </article>
-                        <article className="about_card">
-                            <VscFolderLibrary className="about_icon"/>
-                            <h5>Projects</h5>
-                            <small>80+ completed projects</small>
-                        </article>
-                    </div>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. At blanditiis deleniti dolorum
-                        ducimus error illo impedit, itaque laborum maiores minima obcaecati optio praesentium quasi
-                        repudiandae, similique soluta tempore ullam voluptate.
+                        I am begging Frontend Developer. Since last year I've learned HTML, CSS and JavaScript by myself, but in January 2022 I've decided to go on "JavaScript Developer" bootcamp.
+                        That was good decision, because I improved my skills and learned basic React and more other things. Now I am creating my projects, this site is my first one personal page.
+                        Why I want to join IT? Well, because I always liked to see effects of my work. For example: by changing a couple lines of code I see the differences on my project immediately.
+                        Besides I've always liked computers. If you want some questions, just click on the button bellow.
                     </p>
-                    <a href="" className="btn btn-primary">Let's talk</a>
+                    <a href="#contact" className="btn btn-primary">Let's talk</a>
                 </div>
 
             </div>
