@@ -58,6 +58,15 @@
     }
 }
 
+/*!*=================================iPad====================================================*!*/
+
+@media screen and (min-width: 1180px) and (max-width: 1200px) {
+    .experience_container {
+        grid-template-columns: 1fr;
+    }
+}
+
+
 /*=============================MEDIA QUERIES(SMALL DEVICES)===============================*/
 
 @media screen and (max-width: 600px) {
