@@ -82,9 +82,9 @@
         margin: 0 auto 3rem;
     }
 
-    .about_cards {
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
+    .about_me-image {
+        transition: none;
+        transform: none;
     }
 
     .about_content {
@@ -93,6 +93,7 @@
 
     .about_content p {
         margin: 1.5rem 0;
+        font-size: 1rem;
     }
 
 }
